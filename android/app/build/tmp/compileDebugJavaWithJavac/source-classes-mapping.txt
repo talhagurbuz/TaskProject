@@ -1,0 +1,14 @@
+com/taskproject/MainActivity.java
+ com.taskproject.MainActivity
+com/taskproject/BuildConfig.java
+ com.taskproject.BuildConfig
+com/taskproject/ReactNativeFlipper.java
+ com.taskproject.ReactNativeFlipper
+ com.taskproject.ReactNativeFlipper$1
+ com.taskproject.ReactNativeFlipper$2
+ com.taskproject.ReactNativeFlipper$2$1
+com/taskproject/MainApplication.java
+ com.taskproject.MainApplication
+ com.taskproject.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
